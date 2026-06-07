@@ -1,2 +1,2 @@
 # MasterFinalThesis
-MSc Final Thesis - ML Model for Diagnosis and Prevention of Venous Thromboembolism in Cancer Patients Using Clinical and Genomic Data
+MSc Final Thesis - Predicting venous thromboembolism in cancer patients using contrastive learning
