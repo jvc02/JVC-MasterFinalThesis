@@ -5,7 +5,7 @@ This repository contains the code generated during the Master's Thesis titled: "
 + Author: Júlia Villaró Cañizal
 + Program: MSc in Fundamental Principles of Data Science
 + Institution: University of Barcelona
-+ Advisor: Prof. Dr. Oriol Pujol Vila and Bárbara Lobato Delgado
++ Advisor: Dr. Oriol Pujol Vila and Bárbara Lobato Delgado
 
 ## Abstract
 
