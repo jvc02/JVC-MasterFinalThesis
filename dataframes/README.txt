@@ -1,0 +1,11 @@
+This folder contains some data from this Master's final thesis. It contains data from the preprocessing of the real dataset.
+- df_eligible. For data-protection issues, it will not be uploaded.
+- df_eligible_blood. For data-protection issues, it will not be uploaded.
+- df_eligible_reduced2. For data-protection issues, it will not be uploaded.
+- df_eligible_VTE. For data-protection issues, it will not be uploaded.
+- df_ready. For data-protection issues, it will not be uploaded.
+- df_traits
+- df_traits_blood
+- df_traits_reduced2
+- df_traits_VTE
+- synthetic_clinical_data. Pipeline for creating a new synthetic dataset that follows the same statistical structure of the data

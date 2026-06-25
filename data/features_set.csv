@@ -1,0 +1,81 @@
+trait,definition,units
+id,Unique patient ID,
+hospital,Hospital name where patients were recruited,
+informed_consent,Whether patient signed informed consent,
+eligible,Whether patient is eligible according to inclusion/exclusion criteria,
+sex,Sex,
+date_cancer_dx,Date of cancer diagnosis,
+age_cancer_dx,Age of patient when cancer was diagnosed,
+bmi,Body Mass Index (BMI) value,kg/m²
+performance_status,ECOG performance status at beginning of chemotherapy,
+tobacco_use,Whether patient ever smoked,
+chronic_cardiac_insufficiency,Whether patient suffers chronic cardiac insufficiency,
+copd,Whether patient suffers chronic obstructive pulmonary disease (COPD),
+renal_insufficiency,Whether patient suffers renal insufficiency,
+arterial_hypertension,Whether patient suffers arterial hypertension,
+diabetes_mellitus,Whether patient suffers diabetes mellitus,
+dyslipidemia,Whether patient suffers dyslipidemia,
+hormone_therapy,Whether patient is being treated with hormone therapy,
+previous_vte,Whether patient had VTE at least six months prior to cancer diagnosis,
+previous_ate,Whether patient had ATE prior to cancer diagnosis,
+venous_insufficiency,Whether patient had either varicose veins/venous insufficiency,
+family_background_vte,Whether there is a family history of VTE,
+primary_tumor,Primary tumor,
+tumor_type_risk,Numerical categorisation of cancer type according to VTE risk as indicated in Khorana Risk Score and 2013 ASCO guidelines,
+pTNM_stage,Stage at cancer diagnosis,
+tumor_surgically_removed,Whether the tumor has been completely resected,
+catheter_device,Whether patient has a central venous catheter device (i.e. port-a-cath) implanted,
+vte_concomitant_cancer_dx,Was VTE diagnosed at the same time or following to cancer diagnosis?,
+date_vte_concomitant_cancer_dx,Date of diagnosis of VTE concomitant to cancer diagnosis,
+date_blood_test,Date of blood test,
+hb,Hemoglobin levels in blood,g/dL
+hb_units,Hemoglobin levels units,
+leukocytes,Leukocytes levels in blood,?
+leukocytes_units,Leukocytes levels units,
+platelets,Platelets levels in blood,?
+platelets_units,Platelets levels units,
+d_dimer,D-dimer levels in blood,ng/mL
+d_dimer_units,D-dimer levels units,
+d_dimer_method,D-dimer quantification method,
+inr,International Normalized Ratio,
+aptt,Activated Partial Thromboplastin Time (APTT),seconds
+aptt_units,APPT units,
+aptt_ratio,Activated Partial Thromboplastin Time (APTT) ratio,
+creatinine,Creatinine levels in blood,mg/dL
+creatinine_units,Creatinine levels units,
+alkaline_phosphatase,Alkaline phosphatase levels in blood,UI/L
+alkaline_phosphatase_units,Alkaline phosphatase levels units,
+bilirubin,Bilirubin levels in blood,mg/dL
+bilirubin_units,Bilirubin levels units,
+albumin,Albumin levels in blood,g/dL
+albumin_units,Albumin levels units,
+VTE,Venous thromboembolism observed along 12 months of follow-up (primary endpoint of study),
+date_VTE,Date of VTE observed along 12 months of follow-up,
+VTE_recurrence,Whether patient suffered VTE recurrence along 12 months of follow-up,
+patient_status,Patient status at the end of follow-up,
+date_end_study,Date of follow-up end,
+date_death,Date of death,
+rs11696364,Genotype for SNP rs11696364,
+rs169713,Genotype for SNP rs169713,
+rs2232698,Genotype for SNP rs2232698,
+rs268,Genotype for SNP rs268,
+rs4524,Genotype for SNP rs4524,
+rs5110,Genotype for SNP rs5110,
+rs6003,Genotype for SNP rs6003,
+rs6025,Genotype for SNP rs6025,
+rs2227631,Genotype for SNP rs2227631,
+rs5985,Genotype for SNP rs5985,
+rs11696364_n_risk_alleles,Number of risk alleles in SNP rs11696364,
+rs169713_n_risk_alleles,Number of risk alleles in SNP rs169713,
+rs2232698_n_risk_alleles,Number of risk alleles in SNP rs2232698,
+rs268_n_risk_alleles,Number of risk alleles in SNP rs268,
+rs4524_n_risk_alleles,Number of risk alleles in SNP rs4524,
+rs5110_n_risk_alleles,Number of risk alleles in SNP rs5110,
+rs6003_n_risk_alleles,Number of risk alleles in SNP rs6003,
+rs6025_n_risk_alleles,Number of risk alleles in SNP rs6025,
+rs2227631_n_risk_alleles,Number of risk alleles in SNP rs2227631,
+rs5985_n_risk_alleles,Number of risk alleles in SNP rs5985,
+menopausal_status,"Whether women are pre-, peri- or post-menopausal",NA
+bmi_category,"Whether patient has under-, normal, over-weight or obesity according to BMI",NA
+grade_histological_differentiation,"Grade of tumor histological differentiation (well, moderately or poorly differentiated)",NA
+age,Age of the patient wrt 2026-01-01,years

@@ -1,0 +1,65 @@
+trait,definition,units
+sex,Sex,
+age_cancer_dx,Age of patient when cancer was diagnosed,
+bmi,Body Mass Index (BMI) value,kg/m²
+performance_status,ECOG performance status at beginning of chemotherapy,
+chronic_cardiac_insufficiency,Whether patient suffers chronic cardiac insufficiency,
+copd,Whether patient suffers chronic obstructive pulmonary disease (COPD),
+renal_insufficiency,Whether patient suffers renal insufficiency,
+arterial_hypertension,Whether patient suffers arterial hypertension,
+diabetes_mellitus,Whether patient suffers diabetes mellitus,
+dyslipidemia,Whether patient suffers dyslipidemia,
+hormone_therapy,Whether patient is being treated with hormone therapy,
+previous_vte,Whether patient had VTE at least six months prior to cancer diagnosis,
+previous_ate,Whether patient had ATE prior to cancer diagnosis,
+venous_insufficiency,Whether patient had either varicose veins/venous insufficiency,
+family_background_vte,Whether there is a family history of VTE,
+pTNM_stage,Stage at cancer diagnosis,
+tumor_surgically_removed,Whether the tumor has been completely resected,
+catheter_device,Whether patient has a central venous catheter device (i.e. port-a-cath) implanted,
+vte_concomitant_cancer_dx,Was VTE diagnosed at the same time or following to cancer diagnosis?,
+hb,Hemoglobin levels in blood,g/dL
+hb_units,Hemoglobin levels units,
+leukocytes,Leukocytes levels in blood,?
+leukocytes_units,Leukocytes levels units,
+platelets,Platelets levels in blood,?
+platelets_units,Platelets levels units,
+d_dimer,D-dimer levels in blood,ng/mL
+d_dimer_units,D-dimer levels units,
+d_dimer_method,D-dimer quantification method,
+inr,International Normalized Ratio,
+aptt,Activated Partial Thromboplastin Time (APTT),seconds
+aptt_units,APPT units,
+aptt_ratio,Activated Partial Thromboplastin Time (APTT) ratio,
+creatinine,Creatinine levels in blood,mg/dL
+creatinine_units,Creatinine levels units,
+alkaline_phosphatase,Alkaline phosphatase levels in blood,UI/L
+alkaline_phosphatase_units,Alkaline phosphatase levels units,
+bilirubin,Bilirubin levels in blood,mg/dL
+bilirubin_units,Bilirubin levels units,
+albumin,Albumin levels in blood,g/dL
+albumin_units,Albumin levels units,
+VTE,Venous thromboembolism observed along 12 months of follow-up (primary endpoint of study),
+VTE_recurrence,Whether patient suffered VTE recurrence along 12 months of follow-up,
+rs11696364_n_risk_alleles,Number of risk alleles in SNP rs11696364,
+rs169713_n_risk_alleles,Number of risk alleles in SNP rs169713,
+rs2232698_n_risk_alleles,Number of risk alleles in SNP rs2232698,
+rs268_n_risk_alleles,Number of risk alleles in SNP rs268,
+rs4524_n_risk_alleles,Number of risk alleles in SNP rs4524,
+rs5110_n_risk_alleles,Number of risk alleles in SNP rs5110,
+rs6003_n_risk_alleles,Number of risk alleles in SNP rs6003,
+rs6025_n_risk_alleles,Number of risk alleles in SNP rs6025,
+rs2227631_n_risk_alleles,Number of risk alleles in SNP rs2227631,
+rs5985_n_risk_alleles,Number of risk alleles in SNP rs5985,
+grade_histological_differentiation,"Grade of tumor histological differentiation (well, moderately or poorly differentiated)",
+grade_histological_differentiation,"Grade of tumor histological differentiation (well, moderately or poorly differentiated)",NA
+tobacco_use_Active smoker,One-hot encoded category of tobacco_use,binary (0/1)
+tobacco_use_Former smoker,One-hot encoded category of tobacco_use,binary (0/1)
+tobacco_use_Never has smoked,One-hot encoded category of tobacco_use,binary (0/1)
+primary_tumor_Bile duct,One-hot encoded category of primary_tumor,binary (0/1)
+primary_tumor_Brain,One-hot encoded category of primary_tumor,binary (0/1)
+primary_tumor_Colorectal,One-hot encoded category of primary_tumor,binary (0/1)
+primary_tumor_Gastric,One-hot encoded category of primary_tumor,binary (0/1)
+primary_tumor_NSCLC,One-hot encoded category of primary_tumor,binary (0/1)
+primary_tumor_Oesophageal,One-hot encoded category of primary_tumor,binary (0/1)
+primary_tumor_Pancreatic,One-hot encoded category of primary_tumor,binary (0/1)
